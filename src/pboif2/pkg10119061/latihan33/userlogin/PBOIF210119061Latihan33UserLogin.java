@@ -11,6 +11,7 @@ import java.util.Scanner;
  * NAMA  : RHEIZA AKMAL R
  * KELAS : IF2
  * NIM   : 10119061
+ * Deskripsi Program : user memasukan username dan password pada aplikasi
  */
 public class PBOIF210119061Latihan33UserLogin {
     public static String usName, passWord;
